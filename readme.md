@@ -90,9 +90,9 @@
 ```
 
 #### 实验截图
-未选择： 
-![P1](https://github.com/Jianlingxi/Exp_03/blob/master/DRAW/1.png?raw=true)  
-点击老虎：
+未选择：  
+![P1](https://github.com/Jianlingxi/Exp_03/blob/master/DRAW/1.png?raw=true)   
+点击老虎： 
 ![P2](https://github.com/Jianlingxi/Exp_03/blob/master/DRAW/2.png?raw=true)  
 取消选择：  
 ![P3](https://github.com/Jianlingxi/Exp_03/blob/master/DRAW/3.png?raw=true)  
@@ -287,8 +287,8 @@
 #### 实验截图
 未改变前：  
 ![P6](https://github.com/Jianlingxi/Exp_03/blob/master/DRAW/6.png?raw=true)  
-显示上下文菜单:
-![P7](https://github.com/Jianlingxi/Exp_03/blob/master/DRAW/7.png?raw=true)  
+显示上下文菜单:  
+![P7](https://github.com/Jianlingxi/Exp_03/blob/master/DRAW/7.png?raw=true)   
 选择中等字体和红色：  
 ![P8](https://github.com/Jianlingxi/Exp_03/blob/master/DRAW/8.png?raw=true)  
 普通菜单项：  

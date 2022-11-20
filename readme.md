@@ -91,8 +91,8 @@
 
 #### 实验截图
 未选择：  
-![P1](https://github.com/Jianlingxi/Exp_03/blob/master/DRAW/1.png?raw=true)   
-点击老虎： 
+![P1](https://github.com/Jianlingxi/Exp_03/blob/master/DRAW/1.png?raw=true)    
+点击老虎：  
 ![P2](https://github.com/Jianlingxi/Exp_03/blob/master/DRAW/2.png?raw=true)  
 取消选择：  
 ![P3](https://github.com/Jianlingxi/Exp_03/blob/master/DRAW/3.png?raw=true)  

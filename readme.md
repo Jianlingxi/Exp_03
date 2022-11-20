@@ -90,17 +90,14 @@
 ```
 
 #### 实验截图
-未选择：
-![P1](https://github.com/Jianlingxi/Exp_03/blob/master/DRAW/1.png?raw=true)
-***************
+未选择： 
+![P1](https://github.com/Jianlingxi/Exp_03/blob/master/DRAW/1.png?raw=true)  
 点击老虎：
-![P2](https://github.com/Jianlingxi/Exp_03/blob/master/DRAW/2.png?raw=true)
-***************
-取消选择：
-![P3](https://github.com/Jianlingxi/Exp_03/blob/master/DRAW/3.png?raw=true)
-***************
-多选：
-![P4](https://github.com/Jianlingxi/Exp_03/blob/master/DRAW/4.png?raw=true)
+![P2](https://github.com/Jianlingxi/Exp_03/blob/master/DRAW/2.png?raw=true)  
+取消选择：  
+![P3](https://github.com/Jianlingxi/Exp_03/blob/master/DRAW/3.png?raw=true)  
+多选：  
+![P4](https://github.com/Jianlingxi/Exp_03/blob/master/DRAW/4.png?raw=true)  
 *********************************************
 # Alert
 设置初始页面单击自定义对话框，弹出登录窗口，点击SIGN IN,显示XML定义菜单，点击三个小点进行XML定义菜单的操作，单击中间的测试文本进行上下文菜单的操作。
@@ -195,7 +192,7 @@
 ```
 
 #### 实验截图
-![P5](https://github.com/Jianlingxi/Exp_03/blob/master/DRAW/5.png?raw=true)
+![P5](https://github.com/Jianlingxi/Exp_03/blob/master/DRAW/5.png?raw=true)  
 *********************************************
 ## 使用XML定义菜单
 #### 思路
@@ -288,17 +285,14 @@
 ```
         
 #### 实验截图
-未改变前：
-![P6](https://github.com/Jianlingxi/Exp_03/blob/master/DRAW/6.png?raw=true)
-***************
+未改变前：  
+![P6](https://github.com/Jianlingxi/Exp_03/blob/master/DRAW/6.png?raw=true)  
 显示上下文菜单:
-![P7](https://github.com/Jianlingxi/Exp_03/blob/master/DRAW/7.png?raw=true)
-***************
-选择中等字体和红色：
-![P8](https://github.com/Jianlingxi/Exp_03/blob/master/DRAW/8.png?raw=true)
-***************
-普通菜单项：
-![P9](https://github.com/Jianlingxi/Exp_03/blob/master/DRAW/9.png?raw=true)
+![P7](https://github.com/Jianlingxi/Exp_03/blob/master/DRAW/7.png?raw=true)  
+选择中等字体和红色：  
+![P8](https://github.com/Jianlingxi/Exp_03/blob/master/DRAW/8.png?raw=true)  
+普通菜单项：  
+![P9](https://github.com/Jianlingxi/Exp_03/blob/master/DRAW/9.png?raw=true)  
 *********************************************
 ## 上下文菜单
 #### 思路：
@@ -378,11 +372,9 @@ public void click_select(View V)
         }
 ```
 #### 实验截图
-未选择时：
-![P10](https://github.com/Jianlingxi/Exp_03/blob/master/DRAW/10.png?raw=true)
-***************
-选择多个：
-![P11](https://github.com/Jianlingxi/Exp_03/blob/master/DRAW/11.png?raw=true)
-***************
-取消选择：
-![P12](https://github.com/Jianlingxi/Exp_03/blob/master/DRAW/12.png?raw=true)
+未选择时：  
+![P10](https://github.com/Jianlingxi/Exp_03/blob/master/DRAW/10.png?raw=true)  
+选择多个：  
+![P11](https://github.com/Jianlingxi/Exp_03/blob/master/DRAW/11.png?raw=true)  
+取消选择：  
+![P12](https://github.com/Jianlingxi/Exp_03/blob/master/DRAW/12.png?raw=true)  
